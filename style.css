@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color:yellowgreen;
+    text-decoration: underline yellow;
+    font-weight: bolder;
+    font-style: italic;
+}
+h3, label{
+    font-family:sans-serif;
+}
+#logo
+{
+width: 100px;
+border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background-color: white;
+}
